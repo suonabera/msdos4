@@ -18,3 +18,4 @@
 *.DOC text eol=crlf
 MAKEFILE* text eol=crlf
 LOCSCR* text eol=crlf
+ZERO.DAT* text eol=crlf
