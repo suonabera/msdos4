@@ -470,7 +470,9 @@ dosgetmessage  endp
 
 	page
 
-;������������������������������������������������������������������
+; The first line of this comment present here originally was shipped with
+; a series of the hex bytes EF BF BD repeated 66 times by Microsoft.
+; It originally would cause MASM to error out with a "Line too long" error
 
 Tens	dd	10000000
 	dd	1000000
